@@ -1,9 +1,11 @@
 # Wiwaha
 
-Hello books is an application that provides users with access to books from wherever they are.
-Being a virtual library, users can borrow and read their favorite books using any device.
-HelloBooks exposes RESTful API endpoints such that anyone can customize their method of consuming
-the resources.
+The purpose of this website is to enable you to get all your wedding requirements under one roof. This has now been developed in such a way that you may find a photographer and that photographer can share his service with others. 
+You can now find the photographer you want for your wedding through this website. That is what I have offered you for now. 
+One may provide his service to the customers through this website. 
+For example: if there is a photographer he can promote his service through this website and provide his service to others.
+In addition, a customer can get the service from different photographers.
+A customer can find not only a photographer but also everything required for a wedding through this website.
 
 ### Built With
 
