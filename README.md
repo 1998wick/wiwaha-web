@@ -1,11 +1,11 @@
 # Wiwaha
 
 The purpose of this web application is to enable you to get all your wedding requirements under one roof. This has now been developed in such a way that you may find a photographer and that photographer can share his service with others. 
-You can now find the photographer you want for your wedding through this website. That is what I have offered you for now. 
+You can now find the photographer you want for your wedding through this web application. That is what I have offered you for now. 
 One may provide his service to the customers through this website. 
-For example: if there is a photographer he can promote his service through this website and provide his service to others.
+For example: if there is a photographer he can promote his service through this web app and provide his service to others.
 In addition, a customer can get the service from different photographers.
-A customer can find not only a photographer but also everything required for a wedding through this website.
+A customer can find not only a photographer but also everything required for a wedding through this web application.
 
 ### Built With
 
